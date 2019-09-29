@@ -51,8 +51,6 @@ epochs = 2000
 steps = 0
 running_loss = 0
 print_every = 100
-train_losses, test_losses = [], []
-INPUT = 'noise' # 'meshgrid'
 
 z = torch.FloatTensor(z)
 for epoch in range(epochs):
