@@ -4,6 +4,7 @@ python3 denoising.py
 ### Results
 
 - Corrupted image
+
 ![alt text](corrupted_img.png)
 
 - Output after 2000 iterations
